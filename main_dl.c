@@ -1,17 +1,8 @@
-//10.   Create double linked list with methods to add, remove, to check the existence of element.
-
-
-
-
 #include <assert.h>
 #include "dl.h"
 
 int main()
 {
-
-
-
-
 	Slist s = slist_new();
 	Slist *list = &s;
 
